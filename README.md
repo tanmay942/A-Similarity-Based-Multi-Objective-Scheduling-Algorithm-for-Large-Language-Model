@@ -122,7 +122,6 @@ Prof. Sanjaya Kumar Panda
 ## Authors
 
 * Tanmay Soni
-* Vikram
 
 ---
 
